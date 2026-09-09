@@ -1,0 +1,64 @@
+{
+  "target": "asset",
+  "mode": "single",
+  "prompt": "",
+  "role": "",
+  "input": "/workspace/assets/sprites/shot-enemy/raw-sheet.png",
+  "threshold": 100,
+  "edge_threshold": 150,
+  "duration": 200,
+  "rows": 1,
+  "cols": 1,
+  "cell_size": 128,
+  "fit_scale": 0.9,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": false,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "single-1"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        1408,
+        1408
+      ],
+      "component_mode": "largest",
+      "component_count": 7,
+      "selected_component_area": 294136,
+      "selected_component_bbox": [
+        409,
+        288,
+        994,
+        1075
+      ],
+      "crop_bbox": [
+        409,
+        288,
+        994,
+        1075
+      ],
+      "edge_touch": false,
+      "output_size": [
+        85,
+        115
+      ],
+      "paste_position": [
+        21,
+        6
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

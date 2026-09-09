@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "فلك FALAK",
+      "hasCanvas": true,
+      "bodyTextLen": 227,
+      "bodyTextHash": "f0fe070ae53cf40023fffae46d2c1df8e9b64ac81cb609866f486e72f82b74fe",
+      "bodyTextPrefix": "FALAK فلك موجات من الأعماق. أطلق، ترقَّ، ابقَ على قيد الحياة. ال",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "فلك FALAK",
+      "hasCanvas": true,
+      "bodyTextLen": 227,
+      "bodyTextHash": "f0fe070ae53cf40023fffae46d2c1df8e9b64ac81cb609866f486e72f82b74fe",
+      "bodyTextPrefix": "FALAK فلك موجات من الأعماق. أطلق، ترقَّ، ابقَ على قيد الحياة. ال",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
